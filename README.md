@@ -1,4 +1,4 @@
-<h1 align="center">Breakout</h1>
+<h1 align="center">Armagedon</h1>
 
 <p align="center">
   <img width="350" height="350" src="breakout.gif">
